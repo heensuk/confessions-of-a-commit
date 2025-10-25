@@ -1,2 +1,4 @@
-# confessions-of-a-commit
-A repository of poetic thoughts disguised as commits. Each commit is a confession.
+# Confessions of a Commit  
+_Each commit is a confession._  
+
+This is a digital diary written in diffs and dreams.
